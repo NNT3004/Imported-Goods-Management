@@ -1,0 +1,73 @@
+12
+1
+12346
+My ly
+1000
+Thung
+10000
+1
+12345
+Coca cola
+100
+thung
+10000
+2
+12348
+Sua tuoi
+1000
+Hop
+32000
+2
+12347
+C2
+1000
+Thung
+240000
+3
+12350
+Pepsi
+1000
+Thung
+10000
+3
+12349
+My Hao Hao
+1000
+Thung
+120000
+4
+12351
+Banh mi
+10000
+Goi
+6000
+4
+12352
+Socola
+1000
+Hop
+100000
+5
+12353
+Ca Hop
+10000
+Hop
+15000
+5
+12354
+Bong Tay Trang
+1500
+Thung
+75000
+21
+12344
+Khau trang
+10000
+hop
+1000
+24
+11111
+May Tinh
+5
+Hop
+200000
